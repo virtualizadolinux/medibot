@@ -1,0 +1,14 @@
+{
+  "name": "medibot",
+  "version": "1.0.0",
+  "description": "Bot de lembretes de medicação",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.3",
+    "node-cron": "^3.0.2"
+  }
+}
